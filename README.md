@@ -14,6 +14,14 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wsiegenthaler&repo=rail-id)](https://github.com/wsiegenthaler/rail-id)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wsiegenthaler&repo=rail-id-web)](https://github.com/wsiegenthaler/rail-id-web)
 
+| ---------- | ---------- |
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wsiegenthaler&repo=sequelize-embed)](https://github.com/wsiegenthaler/sequelize-embed) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wsiegenthaler&repo=sobol-rs)](https://github.com/wsiegenthaler/sobol-rs) |
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wsiegenthaler&repo=lobos)](https://github.com/wsiegenthaler/lobos)
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wsiegenthaler&repo=skive)](https://github.com/wsiegenthaler/skive) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wsiegenthaler&repo=alass-ffi)](https://github.com/wsiegenthaler/alass-ffi) |
+
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wsiegenthaler&repo=react-world-flags)](https://github.com/wsiegenthaler/react-world-flags) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wsiegenthaler&repo=rail-id)](https://github.com/wsiegenthaler/rail-id) |
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wsiegenthaler&repo=rail-id-web)](https://github.com/wsiegenthaler/rail-id-web) | |
+
 <!--
 **Wsiegenthaler/wsiegenthaler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
