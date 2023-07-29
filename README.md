@@ -1,5 +1,5 @@
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wsiegenthaler&exclude_repo=sequelize,ohm,svg-to-ico,ng-socket,umzug-cli,dataloader-sequelize,graphql-sequelize,epilogue&theme=buefy&layout=compact&hide_border=true" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wsiegenthaler&exclude_repo=sequelize,ohm,svg-to-ico,ng-socket,umzug-cli,dataloader-sequelize,graphql-sequelize,epilogue,gulp-angular-filesort,shrink-ray,angular-loading-bar,node-activedirectory,angular-collapse,sequelize-fixtures,pages,gulp-npm-files,opus.js,jsbn&theme=buefy&layout=compact&hide_border=true" /> |
 | ------------- |
 
 ### Pinned
