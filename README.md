@@ -1,5 +1,5 @@
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wsiegenthaler&layout=compact&theme=buefy&hide_border=true" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wsiegenthaler&exclude_repo=sequelize,ohm,svg-to-ico,ng-socket,umzug-cli&theme=buefy&hide_border=true" /> |
 | ------------- |
 
 ### Pinned
