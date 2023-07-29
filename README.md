@@ -2,6 +2,7 @@
 | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wsiegenthaler&exclude_repo=pages&theme=buefy&layout=compact&hide_border=true" /> |
 | ------------- |
 
+<!--
 ### Pinned
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wsiegenthaler&repo=sequelize-embed)](https://github.com/wsiegenthaler/sequelize-embed)
@@ -13,7 +14,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wsiegenthaler&repo=rail-id)](https://github.com/wsiegenthaler/rail-id)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wsiegenthaler&repo=rail-id-web)](https://github.com/wsiegenthaler/rail-id-web)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wsiegenthaler&repo=h264ify)](https://github.com/wsiegenthaler/h264ify)
-
+-->
 
 <!--
 **Wsiegenthaler/wsiegenthaler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
