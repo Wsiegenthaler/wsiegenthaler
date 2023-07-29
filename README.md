@@ -1,5 +1,5 @@
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wsiegenthaler&exclude_repo=sequelize,ohm,svg-to-ico,ng-socket,umzug-cli&theme=buefy&hide_border=true" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wsiegenthaler&exclude_repo=sequelize,ohm,svg-to-ico,ng-socket,umzug-cli,dataloader-sequelize,graphql-sequelize,epilogue&theme=buefy&layout=compact&hide_border=true" /> |
 | ------------- |
 
 ### Pinned
@@ -9,10 +9,10 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wsiegenthaler&repo=lobos)](https://github.com/wsiegenthaler/lobos)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wsiegenthaler&repo=skive)](https://github.com/wsiegenthaler/skive)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wsiegenthaler&repo=alass-ffi)](https://github.com/wsiegenthaler/alass-ffi)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wsiegenthaler&repo=react-world-flags)](https://github.com/wsiegenthaler/react-world-flags)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wsiegenthaler&repo=rail-id)](https://github.com/wsiegenthaler/rail-id)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wsiegenthaler&repo=rail-id-web)](https://github.com/wsiegenthaler/rail-id-web)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wsiegenthaler&repo=h264ify)](https://github.com/wsiegenthaler/h264ify)
 
 
 <!--
