@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wsiegenthaler&repo=github-readme-stats)](https://github.com/wsiegenthaler/github-readme-stats)
+
+| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wsiegenthaler&layout=compact&theme=buefy&hide_border=true" /> |
+| ------------- |
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wsiegenthaler&repo=sobol-rs)](https://github.com/wsiegenthaler/sobol-rs)
 
 <!--
 **Wsiegenthaler/wsiegenthaler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
